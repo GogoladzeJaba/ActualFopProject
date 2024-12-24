@@ -3,6 +3,6 @@
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println("hi hi why aren't you pushing");
+        System.out.println("Push test");
     }
 }
