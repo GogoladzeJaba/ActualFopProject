@@ -3,6 +3,6 @@
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println("Testing renaming branch again");
+        System.out.println("Hello");
     }
 }
